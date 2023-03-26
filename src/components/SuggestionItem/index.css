@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.suggestion-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.arrow {
+  height: 35px;
+  width: 25px;
+}
+.suggestion-name {
+  font-size: 15px;
+}
